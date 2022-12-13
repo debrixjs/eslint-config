@@ -50,6 +50,7 @@ module.exports = {
 					'no-empty-function': 'off',
 					'no-empty-interface': 'off',
 					'no-explicit-any': 'off',
+					'no-invalid-void-type': ['warn', { allowAsThisParameter: true }],
 					'no-non-null-assertion': 'off',
 					'no-unused-vars': ['warn', { argsIgnorePattern: '^_' }],
 					'strict-boolean-expressions': 'error',
