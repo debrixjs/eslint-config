@@ -1,5 +1,5 @@
 {
-  "name": "@debrixjs/eslint-config",
+  "name": "@debrix/eslint-config",
   "version": "0.1.0",
   "repository": "https://github.com/debrixjs/eslint-config",
   "license": "MIT",
